@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%
+}
+
+.sidebar {
+  min-height: 800px;
+}
+
+.Post-Card {
+  margin: 10px;
+  padding: 10px;
+}
+.bookarea{
+  margin-bottom: 5px;
+}
+.container{
+  margin:10px 20px;
+}
